@@ -9,7 +9,11 @@ No induced drag
 
 No viscous drag estimate
 
-See Ritter et al. AIAA SciTech 2016 paper for detailed on the discretization (https://doi.org/10.2514/6.2016-1794)
+Geometry information contained in the file geometry.py
+
+Wing airfoil is EMX07, all other surfaces are flat plates
+
+See Ritter et al. AIAA SciTech 2016 paper for details on the discretization (https://doi.org/10.2514/6.2016-1794)
 
 
 Flight conditions used in the paper:

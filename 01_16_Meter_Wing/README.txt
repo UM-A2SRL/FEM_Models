@@ -19,6 +19,8 @@ Uniform discretization
 
 No curvature
 
+Beam axis at 35% of the aerodynamic chord
+
 
 Flight conditions used in the paper:
 
